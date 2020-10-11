@@ -23,6 +23,7 @@
 	"extensions": [
 		"vscjava.vscode-java-pack",
 		"vscode-icons-team.vscode-icons",
+		"redhat.vscode-xml",
 		"rubbersheep.gi"
 	],
 
